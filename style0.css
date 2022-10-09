@@ -1,0 +1,17 @@
+body{
+  background-color: beige;
+  color: darkgrey;
+
+}
+#authorname{
+  color: green;
+  font-style: normal;
+}
+
+.hidden{
+  display: none
+}
+
+#clocks{
+  color:brown
+}
